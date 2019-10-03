@@ -9,5 +9,6 @@
 ##  - HxD를 설치 (https://mh-nexus.de/en/downloads.php?product=HxD20) -> HxD 실행 -> 저장한 pcap 파일 열기
 ##  - HxD에서 교재에 나오는 내용 그대로 따라해서 글로벌헤더, 패킷헤더등 캡쳐하여 문서 작성
 ##  - 패킷 2개이상 캡쳐 후, 각 패킷의 패킷해더를 찾아오기
+##  - 과제 제출시 캡쳐한 패킷파일(pcap), 정리한 문서(hwp, word 등..)
 # 3. 파이썬 코딩 도장 (https://dojang.io/course/view.php?id=7) unit 22 ~ 25 공부해오기.
 # 4. 다음주 10/8에 배운내용으로 문제 제시하여 풀것임!!!
